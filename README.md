@@ -14,7 +14,7 @@ CPU部分，原作者度波郁提供了一个网址用于仿真这台计算机�
 	https://vanya.jp.net/td4/﻿
 ![image](图片/markdown/TD4Web.png)
 其中4片74HC161分别构成了4个Register（寄存器）A，B，OUT，PC，分别用于数据的临时存储、输出以及程序计数器（Program Counter）。
-![image](图片/markdown/74HC161.png)
+<img src="图片/markdown/74HC161.png" width="50%" />
 74HC161是一个4位2进制可预置的同步加法计数器，其中寄存器A、B、OUT仅使用了其预置个功能，即锁存。而寄存器PC还使用了其计数功能用于递增程序地址。锁存受ID模块控制，计数时钟来源于主时钟。
 
 然后有2片74HC153作为MUX（数据选择器），用于选择进入ALU的数据来源。
