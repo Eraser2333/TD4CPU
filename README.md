@@ -84,4 +84,6 @@ PCB尺寸为19.2cm x 10.2cm，板厚1.6mm，铜厚1oz。
 <div align=center><img src="图片/markdown/PCB-T.png" width="50%" /><img src="图片/markdown/PCB-B.png" width="50%" /></div>
 <div align=center><img src="图片/markdown/PCB-0.png" width="50%" /><img src="图片/markdown/PCB-1.png" width="50%" /></div>
 <div align=center><img src="图片/markdown/PCB-3D.png" width="50%" /><img src="图片/markdown/PCB-3DB.png" width="50%" /></div>
-![image](图片/markdown/PCB-3DX.png)
+<div align=center>
+<img src="图片/markdown/PCB-3DX.png"/>
+</div>
