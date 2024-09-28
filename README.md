@@ -4,7 +4,7 @@
    与该CPU连接的ROM（只读存储器）用于存储程序，由拨码开关进行编程，可使用12个指令，最多编写16条指令程序。该项目的设计方案来自于日本工程师度波郁（Iku Watanami）的著作《用10个IC轻松介绍CPU设计》，并由来自广州的创元素团队复刻并讲解。由于创元素制复刻的套件不太符合笔者的电路设计审美。故在此基础上制作了更加美观，指示灯清晰的版本。
 
 <div align=center>
-<img src="图片/markdown/PCB-3DX.png" width="500px" />
+<img src="图片/markdown/PCB-3DX.png" width="50%" />
 </div>
 
 ## 电路原理介绍
@@ -14,7 +14,7 @@ CPU部分，原作者度波郁提供了一个网址用于仿真这台计算机�
 	https://vanya.jp.net/td4/﻿
 ![image](图片/markdown/TD4Web.png)
 其中4片74HC161分别构成了4个Register（寄存器）A，B，OUT，PC，分别用于数据的临时存储、输出以及程序计数器（Program Counter）。
-<img src="图片/markdown/74HC161.png" width="50%" />
+<div align=center><img src="图片/markdown/74HC161.png" width="50%" /></div>
 74HC161是一个4位2进制可预置的同步加法计数器，其中寄存器A、B、OUT仅使用了其预置个功能，即锁存。而寄存器PC还使用了其计数功能用于递增程序地址。锁存受ID模块控制，计数时钟来源于主时钟。
 
 然后有2片74HC153作为MUX（数据选择器），用于选择进入ALU的数据来源。
