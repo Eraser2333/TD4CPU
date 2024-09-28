@@ -73,3 +73,10 @@ TD4 中定义了十二种类型的指令，这里汇总了所有指令的列表�
 | JMP Im | 1111 XXXX | 程序跳转到立即数指示的地址XXXX。不受C标志影响，执行后C标志置0。 | 
 | JNC | 1110 XXXX | 当C标志为0时，程序跳转到立即数所指示的地址。反之什么都不做。执行后C标志置0。 | 
 
+## PCB
+PCB采用双层板结构，板材为FR-4。
+PCB尺寸为19.2cm x 10.2cm，板厚1.6mm，铜厚1oz。
+其他工艺：哑黑色阻焊，白色字符，有铅喷锡，过孔盖油。
+最小线宽：5mil，最小孔径：0.5mm。
+![image](图片/markdown/PCB-T.png)![image](图片/markdown/PCB-B.png)![image](图片/markdown/PCB-0.png)![image](图片/markdown/PCB-1.png)
+![image](图片/markdown/PCB-3D.png)![image](图片/markdown/PCB-3DB.png)![image](图片/markdown/PCB-3DX.png)
