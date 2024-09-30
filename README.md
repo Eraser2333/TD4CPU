@@ -8,7 +8,7 @@
    与该CPU连接的ROM（只读存储器）用于存储程序，由拨码开关进行编程，可使用12个指令，最多编写16条指令程序。该项目的设计方案来自于日本工程师度波郁（Iku Watanami）的著作《用10个IC轻松介绍CPU设计》，并由来自广州的创元素团队复刻并讲解。由于创元素制复刻的套件不太符合笔者的电路设计审美。故在此基础上制作了更加美观，指示灯清晰的版本。
 <div align=center><img src="图片/markdown/特写1.jpg" width="50%" /><img src="图片/markdown/特写2.jpg" width="50%" /></div>
 <div align=center>
-<img src="图片/markdown/PCB-3DX.png" width="50%" /><img src="图片/markdown/元器件分离.jpg" width="50%" />
+<img src="图片/markdown/PCB-3DX.jpg" width="50%" /><img src="图片/markdown/元器件分离.jpg" width="50%" />
 </div>
 
 ## 电路原理介绍
