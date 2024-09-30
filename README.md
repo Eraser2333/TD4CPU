@@ -2,6 +2,8 @@
 <div align=center><img src="图片/markdown/淘宝主图2.png" width="50%" /></div>
 淘宝有售噢
 [(https://item.taobao.com/item.htm?abbucket=4&id=839364618107)]
+
+
 ## 简介
    这一台由74系列数字电路芯片组成的计算机，满足冯·诺依曼提出的计算机的五大基本构件，包括运算器、存储器、输入设备、输出设备和控制器。其核心是一个由10个74芯片构成的4bit CPU，包含了ALU（算术逻辑单元）、ID（指令译码器）、MUX（数据选择器）、PC（程序计数器）、以及寄存器A、B和输出寄存器。
 <div align=center><img src="图片/markdown/成品.jpg" width="50%" /></div>
