@@ -2,6 +2,8 @@
 <div align=center><img src="图片/markdown/淘宝主图2.png" width="50%" /></div>
 淘宝有售噢
 [(https://item.taobao.com/item.htm?abbucket=4&id=839364618107)]
+套件128比自己打板买零件要划得来噢，10cm*20cm打板5张要75块钱。
+成品一个售价248，咨询客服，如果是GitHub或者BiliBili来的有优惠噢。
 
 
 ## 简介
